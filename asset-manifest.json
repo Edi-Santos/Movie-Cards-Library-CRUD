@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/Movie-Cards-Library-CRUD/static/css/main.34de6062.chunk.css",
-    "main.js": "/Movie-Cards-Library-CRUD/static/js/main.a729120b.chunk.js",
-    "main.js.map": "/Movie-Cards-Library-CRUD/static/js/main.a729120b.chunk.js.map",
+    "main.css": "/Movie-Cards-Library-CRUD/static/css/main.0ddd0c97.chunk.css",
+    "main.js": "/Movie-Cards-Library-CRUD/static/js/main.ed381bd1.chunk.js",
+    "main.js.map": "/Movie-Cards-Library-CRUD/static/js/main.ed381bd1.chunk.js.map",
     "runtime-main.js": "/Movie-Cards-Library-CRUD/static/js/runtime-main.92074425.js",
     "runtime-main.js.map": "/Movie-Cards-Library-CRUD/static/js/runtime-main.92074425.js.map",
     "static/js/2.4248905f.chunk.js": "/Movie-Cards-Library-CRUD/static/js/2.4248905f.chunk.js",
     "static/js/2.4248905f.chunk.js.map": "/Movie-Cards-Library-CRUD/static/js/2.4248905f.chunk.js.map",
     "index.html": "/Movie-Cards-Library-CRUD/index.html",
-    "precache-manifest.56d298ebb478dea09eb91da8341a9cd3.js": "/Movie-Cards-Library-CRUD/precache-manifest.56d298ebb478dea09eb91da8341a9cd3.js",
+    "precache-manifest.3d0ec34a312a894c67767817cf3eb1c7.js": "/Movie-Cards-Library-CRUD/precache-manifest.3d0ec34a312a894c67767817cf3eb1c7.js",
     "service-worker.js": "/Movie-Cards-Library-CRUD/service-worker.js",
-    "static/css/main.34de6062.chunk.css.map": "/Movie-Cards-Library-CRUD/static/css/main.34de6062.chunk.css.map"
+    "static/css/main.0ddd0c97.chunk.css.map": "/Movie-Cards-Library-CRUD/static/css/main.0ddd0c97.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.92074425.js",
     "static/js/2.4248905f.chunk.js",
-    "static/css/main.34de6062.chunk.css",
-    "static/js/main.a729120b.chunk.js"
+    "static/css/main.0ddd0c97.chunk.css",
+    "static/js/main.ed381bd1.chunk.js"
   ]
 }
