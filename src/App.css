@@ -1,0 +1,61 @@
+body {
+  background-color: whitesmoke;
+  box-sizing: border-box;
+}
+
+header {
+  height: 70px;
+  margin-bottom: 25px;
+  background-color: rgb(34, 33, 33);
+  color: aliceblue;
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
+}
+
+/* Classes */
+.load-screen {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 30px;
+}
+
+.add-card {
+  padding: 5px;
+  background-color: coral;
+  color: blanchedalmond;
+  border-radius: 5px;
+  text-decoration: none;
+}
+
+.add-card:hover {
+  transition: 0.2s;
+  background-color: rgb(34, 33, 33);
+  border: 1px solid coral;
+}
+
+.movie-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.card-item {
+  margin-bottom: 25px;
+  height: 450px;
+  width: 400px;
+  border: 1px solid gray;
+  border-radius: 5px;
+}
+
+.card-item:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+  box-shadow: 2px 2px 8px gray;
+}
+
+.card-item img, .card-item p {
+  width: 400px;
+}
